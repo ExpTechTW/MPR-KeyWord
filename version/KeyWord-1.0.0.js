@@ -5,7 +5,7 @@ const Plugin = {
     "version": "1.0.0",
     "depends": {
         "pluginLoader": ">=4.7.0",
-        "DataBase": ">=1.0.0"
+        "DataBase": ">=1.1.0"
     },
     "Events": ["messageCreate"],
     "Commands": [
